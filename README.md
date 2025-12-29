@@ -67,7 +67,6 @@ Security audit automation
 
 AI governance systems
 ```
-
 🔍 Why This Project Matters
 
 Most compliance tools work as black boxes.
