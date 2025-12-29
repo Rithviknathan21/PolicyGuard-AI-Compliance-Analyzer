@@ -67,7 +67,7 @@ Security audit automation
 
 AI governance systems
 ```
-```
+
 🔍 Why This Project Matters
 
 Most compliance tools work as black boxes.
@@ -83,7 +83,7 @@ Enterprise-readiness
 This makes it suitable for real-world corporate environments where
 policy justification is as important as detection.
 ```
-```
+
 🔮 Future Enhancements
 
 ML-based anomaly detection
@@ -94,7 +94,7 @@ Real-time log ingestion
 
 Compliance dashboards & analytics
 ```
-```
+
 👨‍💻 Author
 
 Rithviknathan M
