@@ -1,0 +1,23 @@
+{
+    "actions": [
+        {
+            "user_id": "EMP102",
+            "action": "access_data",
+            "data_sensitivity": "confidential",
+            "authorized": false,
+            "timestamp": "2025-01-12 22:14"
+        },
+        {
+            "user_id": "EMP205",
+            "action": "login",
+            "failed_attempts": 7,
+            "timestamp": "2025-01-12 10:30"
+        },
+        {
+            "user_id": "EMP311",
+            "action": "system_access",
+            "outside_business_hours": true,
+            "timestamp": "2025-01-12 23:50"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "user_id": "EMP102",
+        "policy_id": "POL-001",
+        "policy_name": "Unauthorized Data Access",
+        "risk": "HIGH",
+        "description": "Accessing confidential data without authorization",
+        "timestamp": "2025-01-12 22:14",
+        "risk_score": 90,
+        "explanation": "User EMP102 violated policy POL-001 (Unauthorized Data Access) because: Accessing confidential data without authorization."
+    },
+    {
+        "user_id": "EMP311",
+        "policy_id": "POL-003",
+        "policy_name": "After-Hours System Access",
+        "risk": "LOW",
+        "description": "System accessed outside approved working hours",
+        "timestamp": "2025-01-12 23:50",
+        "risk_score": 30,
+        "explanation": "User EMP311 violated policy POL-003 (After-Hours System Access) because: System accessed outside approved working hours."
+    }
+]

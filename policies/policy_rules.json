@@ -1,0 +1,35 @@
+{
+    "policies": [
+        {
+            "policy_id": "POL-001",
+            "name": "Unauthorized Data Access",
+            "condition": {
+                "action": "access_data",
+                "data_sensitivity": "confidential",
+                "authorized": false
+            },
+            "risk": "HIGH",
+            "description": "Accessing confidential data without authorization"
+        },
+        {
+            "policy_id": "POL-002",
+            "name": "Excessive Login Attempts",
+            "condition": {
+                "action": "login",
+                "attempts_gt": 5
+            },
+            "risk": "MEDIUM",
+            "description": "Multiple failed login attempts detected"
+        },
+        {
+            "policy_id": "POL-003",
+            "name": "After-Hours System Access",
+            "condition": {
+                "action": "system_access",
+                "outside_business_hours": true
+            },
+            "risk": "LOW",
+            "description": "System accessed outside approved working hours"
+        }
+    ]
+}
