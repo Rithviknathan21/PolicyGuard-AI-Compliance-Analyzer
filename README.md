@@ -57,19 +57,20 @@ streamlit run app.py
 ``` 
 🧪 Example Use Cases
 
-Enterprise IT policy enforcement
-
-Governance, Risk & Compliance (GRC)
+Governance, Risk & Compliance (GRC) systems
 
 Insider threat analysis
 
+Enterprise IT policy enforcement
+
 Security audit automation
 
-AI governance systems
-```
+AI governance and explainability platforms
+
 🔍 Why This Project Matters
 
-Most compliance tools work as black boxes.
+Most compliance tools operate as black boxes, offering limited transparency
+into why a violation was flagged.
 
 PolicyGuard focuses on:
 
@@ -81,7 +82,6 @@ Enterprise-readiness
 
 This makes it suitable for real-world corporate environments where
 policy justification is as important as detection.
-```
 
 🔮 Future Enhancements
 
@@ -91,10 +91,8 @@ Role-based access risk evaluation
 
 Real-time log ingestion
 
-Compliance dashboards & analytics
-```
+Compliance dashboards and analytics
 
 👨‍💻 Author
 
 Rithviknathan M
-
