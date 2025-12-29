@@ -55,7 +55,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ``` 
-🧪 Example Use Cases
+## 🧪 Example Use Cases
 
 Governance, Risk & Compliance (GRC) systems
 
@@ -67,7 +67,7 @@ Security audit automation
 
 AI governance and explainability platforms
 
-🔍 Why This Project Matters
+## 🔍 Why This Project Matters
 
 Most compliance tools operate as black boxes, offering limited transparency
 into why a violation was flagged.
@@ -83,7 +83,7 @@ Enterprise-readiness
 This makes it suitable for real-world corporate environments where
 policy justification is as important as detection.
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 ML-based anomaly detection
 
@@ -93,6 +93,6 @@ Real-time log ingestion
 
 Compliance dashboards and analytics
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Rithviknathan M
+### Rithviknathan M
