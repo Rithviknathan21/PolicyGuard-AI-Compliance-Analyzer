@@ -22,7 +22,7 @@ operate inside large organizations.
 ---
 
 ## 🧠 System Architecture
-
+```
 PolicyGuard-AI-Compliance-Analyzer/
 ├── app.py # Streamlit web application
 ├── engine/ # Core analysis engines
@@ -34,7 +34,8 @@ PolicyGuard-AI-Compliance-Analyzer/
 ├── reports/ # Sample violation reports
 └── PolicyGuard_Enterprise_AI.ipynb
 
-
+```
+```
 ---
 
 ## ⚙️ Tech Stack
@@ -47,7 +48,7 @@ PolicyGuard-AI-Compliance-Analyzer/
 - GitHub
 
 ---
-
+```
 ## ▶️ How to Run
 
 ```bash
@@ -64,7 +65,7 @@ Insider threat analysis
 Security audit automation
 
 AI governance systems
-
+```
 🔍 Why This Project Matters
 
 Most compliance tools work as black boxes.
@@ -79,7 +80,8 @@ Enterprise-readiness
 
 This makes it suitable for real-world corporate environments where
 policy justification is as important as detection.
-
+```
+```
 🔮 Future Enhancements
 
 ML-based anomaly detection
@@ -89,6 +91,8 @@ Role-based access risk evaluation
 Real-time log ingestion
 
 Compliance dashboards & analytics
+```
 👨‍💻 Author
 
 Rithviknathan M
+```
