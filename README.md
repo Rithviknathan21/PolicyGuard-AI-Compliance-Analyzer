@@ -35,8 +35,7 @@ PolicyGuard-AI-Compliance-Analyzer/
 └── PolicyGuard_Enterprise_AI.ipynb
 
 ```
-```
----
+
 
 ## ⚙️ Tech Stack
 
@@ -47,13 +46,15 @@ PolicyGuard-AI-Compliance-Analyzer/
 - Google Colab
 - GitHub
 
----
-```
+
+
 ## ▶️ How to Run
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+``` 
 🧪 Example Use Cases
 
 Enterprise IT policy enforcement
@@ -65,6 +66,7 @@ Insider threat analysis
 Security audit automation
 
 AI governance systems
+```
 ```
 🔍 Why This Project Matters
 
@@ -91,6 +93,7 @@ Role-based access risk evaluation
 Real-time log ingestion
 
 Compliance dashboards & analytics
+```
 ```
 👨‍💻 Author
 
